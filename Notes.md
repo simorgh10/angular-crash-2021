@@ -27,7 +27,12 @@ Then :
 
 > ng generate component components/task-item
 
+# Create components
 
+ng add @fortawesome/angular-fontawesome@<version>
+We take the latest
+> ng add @fortawesome/angular-fontawesome
+Choose Free Solid Icons, Free Regular Icons and Free Brands Icons the click enter
 
 
 
