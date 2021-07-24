@@ -38,6 +38,13 @@ Choose Free Solid Icons, Free Regular Icons and Free Brands Icons the click ente
 
 > ng generate service services/task
 
+# Install and use JsonServer
 
+> npm i json-server
+Could be installed globally
+
+After adding a server command to launch the JSON Server in package.json
+To run the JSON server :
+> npm run server
 
 
