@@ -25,6 +25,9 @@ Then :
 
 > ng generate component components/tasks
 
+> ng generate component components/task-item
+
+
 
 
 
