@@ -21,6 +21,9 @@ Then :
 
 > ng generate component components/header
 
+> ng generate component components/button
+
+
 
 
 
