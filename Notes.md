@@ -23,6 +23,8 @@ Then :
 
 > ng generate component components/button
 
+> ng generate component components/tasks
+
 
 
 
