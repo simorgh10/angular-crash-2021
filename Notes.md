@@ -17,6 +17,10 @@ If on Windows 10, may need to run this before running the application :
 Then :
 > ng serve
 
+# Create components
+
+> ng generate component components/header
+
 
 
 
